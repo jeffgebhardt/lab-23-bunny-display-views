@@ -1,0 +1,10 @@
+@import "../../scss/styles/_theme";
+
+h1 {
+  color: $app-light-grey;
+  background-color: $app-super-light-grey;
+  width: 400px;
+  text-align: center;
+  padding-top:2px;
+  padding-bottom: 2px;
+}

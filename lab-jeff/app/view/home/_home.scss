@@ -1,0 +1,12 @@
+@import "../../scss/styles/_theme";
+
+.hobbit-list {
+  font-size: 2em;
+  color: $app-secondary;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.hobbit-list:hover {
+  color: $app-dark;
+}

@@ -30,7 +30,7 @@ app.config(['$routeProvider', function($route) {
     })
     .when('/fullsize/:id', {
       templateUrl: '/app/view/fullsize/fullsize.html',
-      controller: 'fullsizeController',
+      controller: 'FullsizeController',
       controllerAs: 'fullsizeCtrl',
     })
     .when('/error', {
